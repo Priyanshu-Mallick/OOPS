@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import javax.swing.text.StyledEditorKit.ForegroundAction;
-
 class Employee {
     String empName;
     int empID;
